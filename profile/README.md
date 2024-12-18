@@ -34,3 +34,6 @@ Brain-to-speech technology refers to a cutting-edge interface that directly tran
 
 ### Ethical Considerations
 - Privacy and misuse concerns regarding access to and interpretation of neural data.
+
+---
+Acknowledgement: This project was supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT) (No. RS-2024-00336673, AI Technology for Interactive Communication of Language Impaired Individuals)
