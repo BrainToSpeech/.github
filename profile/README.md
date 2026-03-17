@@ -25,7 +25,7 @@ Brain-to-speech technology refers to a cutting-edge interface that directly tran
 - Providing a communication channel for people who cannot speak due to physical disabilities.
  
 ### Human-Machine Interaction
-- Enhancing brain-computer interfaces (BCIs) for efficient, intuitive communication in various settings.
+- Enhancing brain-computer interfaces (BCIs) for efficient, intuitive communication in various settings.  
 
 ## Challenges 
 
