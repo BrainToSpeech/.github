@@ -31,7 +31,7 @@ Brain-to-speech technology refers to a cutting-edge interface that directly tran
 
 ### Personalization
 - Each individual’s brain activity is unique, necessitating tailored models.
-
+ 
 ### Ethical Considerations
 - Privacy and misuse concerns regarding access to and interpretation of neural data.
 
