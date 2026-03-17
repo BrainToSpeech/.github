@@ -29,9 +29,9 @@ Brain-to-speech technology refers to a cutting-edge interface that directly tran
 
 ## Challenges 
 
-### Signal Noise 
+### Signal Noise  
 - Neural signals are complex and often noisy, requiring sophisticated processing.
-
+ 
 ### Personalization
 - Each individual’s brain activity is unique, necessitating tailored models.
  
