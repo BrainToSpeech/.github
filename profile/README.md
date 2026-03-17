@@ -8,7 +8,7 @@ Brain-to-speech technology refers to a cutting-edge interface that directly tran
 
 ### Signal Decoding 
 - Advanced algorithms, often powered by machine learning or deep learning models, analyze and interpret the neural signals. These models are trained to identify patterns corresponding to phonemes, words, or complete sentences.
-
+ 
 ### Speech Synthesis
 - The decoded neural signals are converted into audible speech using text-to-speech (TTS) engines or other voice synthesis technologies.
  
@@ -16,9 +16,9 @@ Brain-to-speech technology refers to a cutting-edge interface that directly tran
 - Users may receive feedback to adjust or refine their thought processes, improving the accuracy and fluency of the system over time.
 
 ## Applications
-### Medical
+### Medical 
 - Assisting individuals with speech impairments caused by conditions like ALS (amyotrophic lateral sclerosis) or stroke.
-
+  
 ### Accessibility
 - Providing a communication channel for people who cannot speak due to physical disabilities.
 
