@@ -26,7 +26,7 @@ Brain-to-speech technology refers to a cutting-edge interface that directly tran
 - Enhancing brain-computer interfaces (BCIs) for efficient, intuitive communication in various settings.
 
 ## Challenges 
-### Signal Noise
+### Signal Noise 
 - Neural signals are complex and often noisy, requiring sophisticated processing.
 
 ### Personalization
