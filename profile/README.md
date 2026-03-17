@@ -17,7 +17,7 @@ Brain-to-speech technology refers to a cutting-edge interface that directly tran
  
 ## Applications
 
-### Medical  
+### Medical   
 - Assisting individuals with speech impairments caused by conditions like ALS (amyotrophic lateral sclerosis) or stroke.
   
 ### Accessibility 
